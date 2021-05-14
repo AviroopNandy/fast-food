@@ -1,3 +1,2 @@
-# canteenManagement
+# Fast Food Franchise Management System
 Software Engineering Project
-It is a canteen management application
