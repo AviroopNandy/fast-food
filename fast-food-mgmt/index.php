@@ -46,7 +46,7 @@
                     <img id="logo" src="images/logo.png" >
                         <h1 class="heading">Hungry? Don't have time to stand in queue? </h1>
                         <p>
-                          Use VITEats to resolve your hunger and save your precious time. 
+                          Use our website to resolve your hunger and save your precious time. 
                           <br>
                           <ul>
                               <li><a href="employee.php" class="waves-effect waves-light btn btncolor mycenter studentlogin">  Employee&nbsp; </a></li>
