@@ -2,7 +2,7 @@
 
 ### For this project to run, you need to have in your system:
 #### * Xampp
-#### * Code Editor (e.g. Visual Studio Code)
+#### * A Code Editor (e.g. Visual Studio Code)
 
 ### First, clone this repository to your desired location in your File Explorer
 ### Then, copy the code folder and paste it inside the "htdocs" folder inside your Xampp folder
